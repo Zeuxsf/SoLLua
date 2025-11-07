@@ -13,6 +13,7 @@ Simples:
 - Instale os pacotes: `pip install -r requirements.txt`
 - Crie um .ENV
 - Crie uma conta na [MeteoBlue](https://www.meteoblue.com)
-- Pegue sua KEY e cole no .ENV. Ex.: `KEY = keydameteoblue123`
+- Pegue sua KEY e cole no .ENV. Ex.: `KEY=keydameteoblue123`
 
 *Criado por: Alexandre S. de França*
+
